@@ -1,3 +1,11 @@
+################################################################################
+# Luke's AdBlock List
+# 
+# License: MIT
+# Project page: https://github.com/lwojcik/lukes-adblock-list
+#
+################################################################################
+
 ###rodo-popup-container
 ###rodo-popup
 ###rodo-popup-overlay
