@@ -1,4 +1,4 @@
-# Luke's AdBlock list
+# Luke's AdBlock List
 
 This is a personal blacklist for uBlock Origin installations on devices I use. I keep it here so that I can manage it easily from a single place.
 
