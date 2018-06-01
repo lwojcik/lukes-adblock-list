@@ -13,3 +13,7 @@
 ##*[class*="rodo"]
 ##*[id*="gdpr"]
 ##*[id*="rodo"]
+##*[id*="notifications-popup"]
+##*[class*="notifications-popup"]
+##*[id*="fbinvite"]
+##*[class*="fbinvite"]
