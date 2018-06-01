@@ -9,4 +9,7 @@
 ###rodo-popup-container
 ###rodo-popup
 ###rodo-popup-overlay
-##*(class*=app_gdpr)
+##*[class*="gdpr"]
+##*[class*="rodo"]
+##*[id*="gdpr"]
+##*[id*="rodo"]
