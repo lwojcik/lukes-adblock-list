@@ -46,3 +46,14 @@ www.linkedin.com##.feed-identity-module__widgets
 www.linkedin.com###ember192
 www.linkedin.com##.ph3.pb2.pt3.display-flex
 www.linkedin.com##.ph3.pb3.display-flex
+
+! 2/3/2019 https://www.twitch.tv
+www.twitch.tv##a.tw-link--hover-underline-none.tw-link.tw-flex-shrink-0.tw-align-items-center.channel-header__item.tw-interactive:nth-of-type(4)
+www.twitch.tv##.tw-inline-flex.tw-c-text-live.channel-info-bar__viewers-wrapper > .tw-tooltip-wrapper.tw-inline-flex > .tw-stat
+www.twitch.tv##a.tw-link--hover-underline-none.tw-link.tw-flex-shrink-0.tw-align-items-center.channel-header__item.tw-interactive:nth-of-type(5)
+www.twitch.tv##div.tw-transition--duration-medium > .tw-transition__scale-over--enter-done.tw-transition__scale-over.tw-transition--enter-done.tw-transition--duration-medium.tw-transition > div > .tw-relative.tw-flex.tw-align-items-center.side-nav-card > .tw-pd-y-05.tw-pd-x-1.tw-link--hover-underline-none.tw-link.tw-full-width.tw-flex-nowrap.tw-flex.tw-align-items-center.side-nav-card__link.tw-interactive > .tw-mg-l-1.tw-flex-grow-1.tw-flex-column.tw-flex.tw-ellipsis > .tw-justify-content-between.tw-font-size-6.tw-flex-nowrap.tw-flex.tw-ellipsis.side-nav-card__metadata > .tw-mg-l-05.tw-flex-shrink-0 > .tw-flex.tw-align-items-center
+www.twitch.tv##.tw-inline-flex.tw-align-items-center > .tw-tooltip-wrapper.tw-inline-flex > .tw-stat
+www.twitch.tv##div.tw-mg-b-2 > .live-channel-card > .preview-card > .tw-relative.tw-overflow-hidden.tw-border-radius-medium > .tw-link.tw-interactive > div > .tw-absolute.tw-bottom-0.tw-left-0.tw-mg-x-05.tw-mg-y-05
+www.twitch.tv##div.tw-mg-b-2 > .live-channel-card > .preview-card > .tw-relative.tw-overflow-hidden.tw-border-radius-medium .tw-absolute.tw-bottom-0.tw-left-0.tw-mg-x-05.tw-mg-y-05
+www.twitch.tv##a.tw-link--hover-underline-none.tw-link.tw-flex-shrink-0.tw-align-items-center.channel-header__item.tw-interactive:nth-of-type(4)
+www.twitch.tv##a.tw-link--hover-underline-none.tw-link.tw-flex-shrink-0.tw-align-items-center.channel-header__item.tw-interactive:nth-of-type(5)
