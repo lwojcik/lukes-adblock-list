@@ -22,7 +22,6 @@
 ##*[class="dataprivacy"]
 ##*[id="privacy-consent"]
 
-! 2/2/2019 https://twitter.com
 twitter.com##.has-content.roaming-module.js-wtf-module.wtf-module.module > div.flex-module:nth-of-type(1)
 twitter.com##.has-content.roaming-module.js-wtf-module.wtf-module.module > div.flex-module:nth-of-type(2)
 twitter.com##.trends.Trends.module
@@ -38,8 +37,14 @@ twitter.com##.has-content.roaming-module.js-wtf-module.wtf-module.module > div.f
 twitter.com##.has-content.roaming-module.js-wtf-module.wtf-module.module > div.flex-module:nth-of-type(2)
 twitter.com##.roaming-module.module.Footer > .flex-module
 twitter.com##.trends.Trends.module
+twitter.com##.is-active.ProfileNav-item--tweets.ProfileNav-item > .js-nav.js-tooltip.u-textCenter.u-borderUserColor.ProfileNav-stat--link.ProfileNav-stat
+twitter.com##.ProfileNav-item--following.ProfileNav-item > .u-textUserColor.js-nav.js-tooltip.u-textCenter.u-borderUserColor.ProfileNav-stat--link.ProfileNav-stat
+twitter.com##.ProfileNav-item--followers.ProfileNav-item > .u-textUserColor.js-nav.js-tooltip.u-textCenter.u-borderUserColor.ProfileNav-stat--link.ProfileNav-stat
+twitter.com##.ProfileNav-item--favorites.ProfileNav-item > .u-textUserColor.js-nav.js-tooltip.u-textCenter.u-borderUserColor.ProfileNav-stat--link.ProfileNav-stat
+twitter.com##.ProfileNav-item--lists.ProfileNav-item > .u-textUserColor.js-nav.js-tooltip.u-textCenter.u-borderUserColor.ProfileNav-stat--link.ProfileNav-stat
+twitter.com##.ProfileNav-item--moments.ProfileNav-item > .u-textUserColor.js-nav.js-tooltip.u-textCenter.u-borderUserColor.ProfileNav-stat--link.ProfileNav-stat
+twitter.com##.clear.TweetImpressionsModule
 
-! 2/2/2019 https://www.linkedin.com
 www.linkedin.com##.mh0.mv4.feed-follows-module
 www.linkedin.com##li.entity-list-item:nth-of-type(1)
 www.linkedin.com##.feed-identity-module__widgets
@@ -47,7 +52,6 @@ www.linkedin.com###ember192
 www.linkedin.com##.ph3.pb2.pt3.display-flex
 www.linkedin.com##.ph3.pb3.display-flex
 
-! 2/3/2019 https://www.twitch.tv
 www.twitch.tv##a.tw-link--hover-underline-none.tw-link.tw-flex-shrink-0.tw-align-items-center.channel-header__item.tw-interactive:nth-of-type(4)
 www.twitch.tv##.tw-inline-flex.tw-c-text-live.channel-info-bar__viewers-wrapper > .tw-tooltip-wrapper.tw-inline-flex > .tw-stat
 www.twitch.tv##a.tw-link--hover-underline-none.tw-link.tw-flex-shrink-0.tw-align-items-center.channel-header__item.tw-interactive:nth-of-type(5)
