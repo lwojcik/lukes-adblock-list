@@ -61,3 +61,5 @@ www.twitch.tv##div.tw-mg-b-2 > .live-channel-card > .preview-card > .tw-relative
 www.twitch.tv##div.tw-mg-b-2 > .live-channel-card > .preview-card > .tw-relative.tw-overflow-hidden.tw-border-radius-medium .tw-absolute.tw-bottom-0.tw-left-0.tw-mg-x-05.tw-mg-y-05
 www.twitch.tv##a.tw-link--hover-underline-none.tw-link.tw-flex-shrink-0.tw-align-items-center.channel-header__item.tw-interactive:nth-of-type(4)
 www.twitch.tv##a.tw-link--hover-underline-none.tw-link.tw-flex-shrink-0.tw-align-items-center.channel-header__item.tw-interactive:nth-of-type(5)
+! 2/6/2019 https://www.twitch.tv
+www.twitch.tv##div.tw-mg-b-2 > .live-channel-card > .preview-card .tw-absolute.tw-bottom-0.tw-left-0.tw-mg-x-1.tw-mg-y-1
