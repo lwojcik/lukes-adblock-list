@@ -21,6 +21,8 @@
 ##*[class*="privacy-consent"]
 ##*[class="dataprivacy"]
 ##*[id="privacy-consent"]
+##*[id="cookie_wall"]
+##*[class="cookie_wall"]
 
 twitter.com##.has-content.roaming-module.js-wtf-module.wtf-module.module > div.flex-module:nth-of-type(1)
 twitter.com##.has-content.roaming-module.js-wtf-module.wtf-module.module > div.flex-module:nth-of-type(2)
