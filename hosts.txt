@@ -24,29 +24,6 @@
 ##*[id="cookie_wall"]
 ##*[class="cookie_wall"]
 
-twitter.com##.has-content.roaming-module.js-wtf-module.wtf-module.module > div.flex-module:nth-of-type(1)
-twitter.com##.has-content.roaming-module.js-wtf-module.wtf-module.module > div.flex-module:nth-of-type(2)
-twitter.com##.trends.Trends.module
-twitter.com##.dashboard-right.dashboard
-twitter.com##li.Arrange-sizeFit.ProfileCardStats-stat:nth-of-type(1) > .js-tooltip.js-nav.u-block.u-linkClean.u-textUserColor.ProfileCardStats-statLink > .ProfileCardStats-statValue
-twitter.com##li.Arrange-sizeFit.ProfileCardStats-stat:nth-of-type(2) > .js-tooltip.js-nav.u-block.u-linkClean.u-textUserColor.ProfileCardStats-statLink > .ProfileCardStats-statValue
-twitter.com##li.Arrange-sizeFit.ProfileCardStats-stat:nth-of-type(3) > .js-tooltip.js-nav.u-block.u-linkClean.u-textUserColor.ProfileCardStats-statLink > .ProfileCardStats-statValue
-twitter.com##li.Arrange-sizeFit.ProfileCardStats-stat:nth-of-type(1) > .js-tooltip.js-nav.u-block.u-linkClean.u-textUserColor.ProfileCardStats-statLink > .u-block.ProfileCardStats-statLabel
-twitter.com##li.Arrange-sizeFit.ProfileCardStats-stat:nth-of-type(2) > .js-tooltip.js-nav.u-block.u-linkClean.u-textUserColor.ProfileCardStats-statLink > .u-block.ProfileCardStats-statLabel
-twitter.com##li.Arrange-sizeFit.ProfileCardStats-stat:nth-of-type(3) > .js-tooltip.js-nav.u-block.u-linkClean.u-textUserColor.ProfileCardStats-statLink > .u-block.ProfileCardStats-statLabel
-twitter.com##.ProfileCardStats
-twitter.com##.has-content.roaming-module.js-wtf-module.wtf-module.module > div.flex-module:nth-of-type(1)
-twitter.com##.has-content.roaming-module.js-wtf-module.wtf-module.module > div.flex-module:nth-of-type(2)
-twitter.com##.roaming-module.module.Footer > .flex-module
-twitter.com##.trends.Trends.module
-twitter.com##.is-active.ProfileNav-item--tweets.ProfileNav-item > .js-nav.js-tooltip.u-textCenter.u-borderUserColor.ProfileNav-stat--link.ProfileNav-stat
-twitter.com##.ProfileNav-item--following.ProfileNav-item > .u-textUserColor.js-nav.js-tooltip.u-textCenter.u-borderUserColor.ProfileNav-stat--link.ProfileNav-stat
-twitter.com##.ProfileNav-item--followers.ProfileNav-item > .u-textUserColor.js-nav.js-tooltip.u-textCenter.u-borderUserColor.ProfileNav-stat--link.ProfileNav-stat
-twitter.com##.ProfileNav-item--favorites.ProfileNav-item > .u-textUserColor.js-nav.js-tooltip.u-textCenter.u-borderUserColor.ProfileNav-stat--link.ProfileNav-stat
-twitter.com##.ProfileNav-item--lists.ProfileNav-item > .u-textUserColor.js-nav.js-tooltip.u-textCenter.u-borderUserColor.ProfileNav-stat--link.ProfileNav-stat
-twitter.com##.ProfileNav-item--moments.ProfileNav-item > .u-textUserColor.js-nav.js-tooltip.u-textCenter.u-borderUserColor.ProfileNav-stat--link.ProfileNav-stat
-twitter.com##.clear.TweetImpressionsModule
-
 www.linkedin.com##.mh0.mv4.feed-follows-module
 www.linkedin.com##li.entity-list-item:nth-of-type(1)
 www.linkedin.com##.feed-identity-module__widgets
@@ -65,7 +42,3 @@ www.twitch.tv##a.tw-link--hover-underline-none.tw-link.tw-flex-shrink-0.tw-align
 www.twitch.tv##a.tw-link--hover-underline-none.tw-link.tw-flex-shrink-0.tw-align-items-center.channel-header__item.tw-interactive:nth-of-type(5)
 www.twitch.tv##div.tw-mg-b-2 > .live-channel-card > .preview-card .tw-absolute.tw-bottom-0.tw-left-0.tw-mg-x-1.tw-mg-y-1
 
-! 4/24/2019 https://twitter.com
-twitter.com##section[role="region"][aria-labelledby="accessible-list-67"]
-twitter.com##div[data-testid="sidebarColumn"]
-twitter.com##div[data-testid="like"] span
