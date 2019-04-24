@@ -66,9 +66,6 @@ www.twitch.tv##a.tw-link--hover-underline-none.tw-link.tw-flex-shrink-0.tw-align
 www.twitch.tv##div.tw-mg-b-2 > .live-channel-card > .preview-card .tw-absolute.tw-bottom-0.tw-left-0.tw-mg-x-1.tw-mg-y-1
 
 ! 4/24/2019 https://twitter.com
-twitter.com##.r-1b9bua6.r-sydbv7.css-1dbjc4n
 twitter.com##section[role="region"][aria-labelledby="accessible-list-67"]
 twitter.com##div[data-testid="sidebarColumn"]
-twitter.com##.r-1xtiow5.r-thmkab.r-16y2uox.r-18u37iz.css-1dbjc4n
-twitter.com##.r-1adg3ll.r-qklmqi.r-1ila09b.css-1dbjc4n > .r-1j63xyz.r-o7ynqc.r-1loqt21.css-1dbjc4n > .r-1wqkr8a.r-5f36wq.r-1loqt21.css-1dbjc4n > .r-thb0q2.r-18u37iz.css-1dbjc4n > .r-bcqeeo.r-5f2r5o.r-46vdb2.r-1iusvr4.css-1dbjc4n > .r-1mdbhws.r-psjefw.r-1wtj0ep.r-18u37iz.css-1dbjc4n > div.r-1h0z5md.r-16y2uox.r-18u37iz.r-1iusvr4.css-1dbjc4n > .r-lrvibr.r-bztko3.r-11cpok1.r-1777fci.css-1dbjc4n.css-18t94o4 > .r-qvutc0.r-3s2u2q.r-clp7b1.r-o7ynqc.r-bcqeeo.r-ad9z0x.r-1h0z5md.r-16dba41.r-1b43r93.r-1qd0xha.r-6koalj.r-111h2gw.r-1awozwy.css-76zvg2 > .r-1udh08x.r-xoduu5.css-1dbjc4n
 twitter.com##div[data-testid="like"] span
