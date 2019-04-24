@@ -42,3 +42,9 @@ www.twitch.tv##a.tw-link--hover-underline-none.tw-link.tw-flex-shrink-0.tw-align
 www.twitch.tv##a.tw-link--hover-underline-none.tw-link.tw-flex-shrink-0.tw-align-items-center.channel-header__item.tw-interactive:nth-of-type(5)
 www.twitch.tv##div.tw-mg-b-2 > .live-channel-card > .preview-card .tw-absolute.tw-bottom-0.tw-left-0.tw-mg-x-1.tw-mg-y-1
 
+! 4/24/2019 https://twitter.com
+twitter.com##div[data-testid="sidebarColumn"]
+twitter.com##div[data-testid="like"] span span
+twitter.com##div[data-testid="retweet"] span span
+twitter.com##div.r-18u37iz.css-1dbjc4n:nth-of-type(5)
+twitter.com##.r-1xtiow5.r-thmkab.r-16y2uox.r-18u37iz.css-1dbjc4n
