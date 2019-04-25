@@ -48,6 +48,7 @@ twitter.com##div[data-testid="like"] span span
 twitter.com##div[data-testid="retweet"] span span
 twitter.com##div.r-18u37iz.css-1dbjc4n:nth-of-type(5)
 twitter.com##.r-1xtiow5.r-thmkab.r-16y2uox.r-18u37iz.css-1dbjc4n
+twitter.com##.r-1w50u8q.r-d9fdf6.r-16y2uox.r-18u37iz.css-1dbjc4n
 twitter.com##.ProfileCardStats
 twitter.com##.trends.Trends.module
 twitter.com##.module:not(.DashboardProfileCard)
