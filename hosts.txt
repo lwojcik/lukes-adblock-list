@@ -23,6 +23,10 @@
 ##*[id="privacy-consent"]
 ##*[id="cookie_wall"]
 ##*[class="cookie_wall"]
+##*[class*="paywall"]
+##*[id*="paywall"]
+##*[class="paywall-container-component"]
+##*[class="paywall-container-component--fullwalled"]
 
 www.linkedin.com##.mh0.mv4.feed-follows-module
 www.linkedin.com##li.entity-list-item:nth-of-type(1)
