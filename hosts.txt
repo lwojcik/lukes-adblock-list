@@ -2,6 +2,7 @@
 # Luke's AdBlock List
 # 
 # License: MIT
+# Original URL: https://adblock.lukem.net/hosts.txt
 # Project page: https://github.com/lwojcik/lukes-adblock-list
 #
 ################################################################################
