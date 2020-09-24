@@ -1,6 +1,6 @@
 # Luke's AdBlock List
 
-This is my personal blacklist for uBlock Origin instances. I keep it here so that I can manage it easily from a single place.
+This is my personal blocklist for uBlock Origin instances. I keep it here so that I can manage it easily from a single place.
 
 The list URL: https://adblock.lukem.net/hosts.txt
 
