@@ -33,6 +33,7 @@
 ##*[id="adBlockersMsg"]
 ##*[class="cookielayer"]
 ##*[id="cookielayer"]
+##*[id="cookiebar"]
 
 www.linkedin.com##.mh0.mv4.feed-follows-module
 www.linkedin.com##li.entity-list-item:nth-of-type(1)
