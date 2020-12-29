@@ -16,6 +16,7 @@
 ##*[id*="rodo"]
 ##*[id*="notifications-popup"]
 ##*[class*="notifications-popup"]
+##*[class=*="modal-overlay"]
 ##*[id*="fbinvite"]
 ##*[class*="fbinvite"]
 ##*[class*="cookie-alert"]
