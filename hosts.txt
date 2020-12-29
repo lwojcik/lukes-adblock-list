@@ -16,7 +16,7 @@
 ##*[id*="rodo"]
 ##*[id*="notifications-popup"]
 ##*[class*="notifications-popup"]
-##*[class=*="modal-overlay"]
+##*[class*="modal-overlay"]
 ##*[id*="fbinvite"]
 ##*[class*="fbinvite"]
 ##*[class*="cookie-alert"]
@@ -35,7 +35,7 @@
 ##*[class="cookielayer"]
 ##*[id="cookielayer"]
 ##*[id="cookiebar"]
-##*[class"partner-news-wrapper"]
+##*[class="partner-news-wrapper"]
 
 www.linkedin.com##.mh0.mv4.feed-follows-module
 www.linkedin.com##li.entity-list-item:nth-of-type(1)
